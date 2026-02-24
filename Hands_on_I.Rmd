@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-author: "Pau Villén Vidal (pau.villenvidal01@estudiant.upf.edu)"
+author: "Diego Vicente Millán (diego.vicente01@estudiant.upf.edu)"
 date: "Last update: `r format(Sys.time(), '%d %B, %Y')`"      
 output:
   html_document:
